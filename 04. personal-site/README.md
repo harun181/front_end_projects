@@ -3,22 +3,22 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/harun181/front_end_projects/tree/v0.1/graphs/contributors">
+  <a href="https://github.com/harun181/front_end_projects/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
   </a>
-  <a href="https://github.com/harun181/front_end_projects/tree/v0.1/graphs/commit-activity">
+  <a href="https://github.com/harun181/front_end_projects/graphs/commit-activity">
     <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
-  <a href="https://github.com/harun181/front_end_projects/tree/v0.1/network/members">
+  <a href="https://github.com/harun181/front_end_projects/network/members">
     <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
   </a>
-  <a href="https://github.com/harun181/front_end_projects/tree/v0.1/stargazers">
+  <a href="https://github.com/harun181/front_end_projects/stargazers">
     <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
   </a>
-  <a href="https://github.com/harun181/front_end_projects/tree/v0.1/issues/">
+  <a href="https://github.com/harun181/front_end_projects/issues/">
     <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
   </a>
-  <a href="https://github.com/harun181/front_end_projects/tree/v0.1/blob/master/LICENSE">
+  <a href="https://github.com/harun181/front_end_projects/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
   </a>
 </p>
@@ -26,11 +26,11 @@
 <h4>
     <a href="https://harun181.github.io/front_end_projects/04.%20personal-site/index.html">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/harun181/front_end_projects/tree/v0.1/">Documentation</a>
+    <a href="https://github.com/harun181/front_end_projects/">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/harun181/front_end_projects/tree/v0.1//issues/">Report Bug</a>
+    <a href="https://github.com/harun181/front_end_projects//issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/harun181/front_end_projects/tree/v0.1//issues/">Request Feature</a>
+    <a href="https://github.com/harun181/front_end_projects//issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -159,7 +159,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/harun181/front_end_projects/tree/v0.1/
+  git clone https://github.com/harun181/front_end_projects/
 ```
 
 Go to the project directory
@@ -215,7 +215,7 @@ function App() {
 
 ## :wave: Contributing
 
-<a href="https://github.com/harun181/front_end_projects/tree/v0.1/graphs/contributors">
+<a href="https://github.com/harun181/front_end_projects/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
 </a>
 
@@ -227,7 +227,7 @@ See `contributing.md` for ways to get started.
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/harun181/front_end_projects/tree/v0.1/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/harun181/front_end_projects/blob/master/CODE_OF_CONDUCT.md)
 
 <!-- FAQ -->
 
