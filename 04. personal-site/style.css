@@ -94,15 +94,16 @@ header .nav ul li a:hover{
 .half1 p{
     color: rgba(78, 78, 78, 0.7);
 }
-.half1 input{
+.half1 button{
     padding: 12px 25px;
     background-color: #8393ff;
     outline: none;
     color: white;
+    cursor: pointer;
     border: 1px solid #8393ff;
     font-size: 15px;
 }
-.half1 input:hover{
+.half1 button:hover{
     box-shadow:5px 10px 30px rgba(130,147,255, 0.5);
     transition: all 0.5s ease-in 0.1s;
     outline: none;
@@ -142,15 +143,16 @@ header .nav ul li a:hover{
     color: rgba(0,0,0,0.6);
     width: 80%;
 }
-.text2 input{
+.text2 button{
     font-size: 20px;
     padding: 12px 16px;
     outline: none;
     color: white;
+    cursor: pointer;
     background-color: #8293ff;
     border: none;
 }
-.text2 input:hover{
+.text2 button:hover{
     box-shadow:5px 10px 30px rgba(130,147,255, 0.5);
     transition: all 0.5s ease-in 0.1s;
     outline: none;
@@ -203,6 +205,7 @@ header .nav ul li a:hover{
 }
 .ser1 div:hover{
     background-color: #8293ff;
+    transition: 0.5s ease-in  ;
     color: white;
 }
 .ser1 div:hover i{
@@ -216,6 +219,7 @@ header .nav ul li a:hover{
 }
 .ser2 div:hover{
     background-color: #8293ff;
+    transition: 0.5s ease-in  ;
 }
 .ser2 div:hover i{
     color: white;
@@ -438,16 +442,16 @@ footer .foot .foot1 i:hover{
       background: #F9F9FF;
       top: 54px;
       left: -200%;
-      transition: all .5s;     
+      transition: all .5s;
     }
     header .nav ul li{
-      line-height: 30px; 
-      clear: both; 
-      margin: 15px 0;         
+      line-height: 30px;
+      clear: both;
+      margin: 15px 0;
     }
     header .nav ul li a{
-      font-size: 30px; 
-      margin-left: 200px;    
+      font-size: 30px;
+      margin-left: 200px;
     }
     #check:checked ~ ul{
       left: 0;
@@ -538,8 +542,8 @@ footer .foot .foot1 i:hover{
     .ser1 div, .ser2 div{
         clear: left;
         position: relative;
-        width: 100%;  
-        height: auto;     
+        width: 100%;
+        height: auto;
     }
     .section4{
         width: 100%;
@@ -587,8 +591,8 @@ footer .foot .foot1 i:hover{
        top: 100em;
     }
     footer .foot{
-        display: block;  
-        position: relative; 
+        display: block;
+        position: relative;
         top: 160px;
     }
     .foot1 .abp{
