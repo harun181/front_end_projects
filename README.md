@@ -36,7 +36,7 @@
 
 <br />
 
-<!-- About the Project -->
+<!-- About the Project Details -->
 
 ## :star2: About the Project
 
